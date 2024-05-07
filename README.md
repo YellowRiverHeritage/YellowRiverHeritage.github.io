@@ -9,6 +9,8 @@
 - 后端，连接图数据库，完成增删改查的业务，封装接口
 - 前端，使用 vue2 + element ui 搭建，负责图谱展示和问答
 
+![1](https://github.com/YellowRiverHeritage/YellowRiverHeritage.github.io/blob/main/assets/ConceptMap.png)
+
 ### 知识图谱
 
 根据语料构建知识图谱，展示黄河文化相关知识。
@@ -61,3 +63,4 @@
 |- App.vue
 |- main.js
 ```
+![2](https://github.com/YellowRiverHeritage/YellowRiverHeritage.github.io/blob/main/assets/Demo.png)
